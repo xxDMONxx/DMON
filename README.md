@@ -1,6 +1,6 @@
 # Bienvenido a Mi Repositorio de GitHub
 
-¡Hola! Soy un desarrollador autodidacta apasionado por la tecnología y el aprendizaje continuo. Este repositorio es el punto de partida donde compartiré mis proyectos, experimentos y colaboraciones.
+¡Hola! Soy un estudiante de Ingenería Electrónica y un desarrollador autodidacta apasionado por la tecnología y el aprendizaje continuo. Este repositorio es el punto de partida donde compartiré mis proyectos, experimentos y colaboraciones.
 
 ---
 
